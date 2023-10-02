@@ -136,19 +136,32 @@ GitHub permet aux développeurs de stocker et de partager, publiquement ou non, 
 
 Microsoft a acheté, lundi 4 juin 2018. La firme américaine a annoncé avoir acquis pour 7,5 milliards de dollars (6,4 milliards d’euros) la plate-forme de développement de logiciels GitHub.
 
+Cela inquiète de nombreux développeurs. Parmi ses concurrents, le site de forge, GitLab voit 50 000 nouveaux projets apparaître sur sa plateforme dans la journée via l'outil de migration depuis GitHub. 
+
+Le mercredi 6 juin, 100 000 projets avaient migré sur les 75 millions de projets que comporte GitHub. D'autres se sont tournés vers Bitbucket. SourceForge.net, une des plus anciennes forges publiques voit aussi un important pic d'imports et comme les précédents proposent un outil spécialisé pour l'import depuis GitHub. Enfin, d'autres se sont probablement portés vers des solutions d'auto-hébergement libres de leurs dépôts.
+
+En 2019, est mis en place une restriction d'échanges des États-Unis d'Amérique, dont l'Iran, la Syrie, la Crimée, et potentiellement d'autres pays (Github mentionne Cuba et la Corée du Nord). 
+
+Certains comptes de développeurs russes auraient été bloqués depuis le début de la Guerre en Ukraine. En réponse, le 29 juillet 2019, le ministère des Affaires étrangères russe a annoncé que le gouvernement russe allait migrer vers une plateforme de développement nationale, GitLab.
+
+Le milieu de l'open Source s'opposant à une politique trop stricte, GitHub a annoncé que " ... Nous continuons à veiller à ce que les services open source gratuits soient accessibles à tous, y compris aux développeurs en Russie ... ". 
+
+Le 25 Janvier 2023, GitHub publie un article pour annoncer avoir dépassé la barre des 100 millions d'utilisateurs.
+
+
 Nous utiliserons github.com pour stocker nos fichiers et travailler sur les projets tout le long de la formation.
 
 Si vous n'avez pas encore de compte, créez-en un avec une adresse mail valide.
 
 Notre groupe se trouvera à cette URL pour cette session de formation:
 
-https://github.com/WebDevCF2m2022
+https://github.com/WebDevCF2m2023
 
 ## Compte github
 
 - [Retour à l'arborescence](#arborescence)
 
-Si vous avez déjà un compte github, vous pouvez passer la première étape d'inscrition
+Si vous avez déjà un compte github, vous pouvez passer la première étape de l'inscription.
 
 ### Inscription
 
@@ -164,7 +177,7 @@ Choisissez un username qui pourra être montré à un employeur !
 
 Connectez-vous à votre compte sur https://github.com/ puis envoyez-moi votre username sur teams que je puisse vous rajouter au projet :
 
-https://github.com/WebDevCF2m2022
+https://github.com/WebDevCF2m2023
 
 ### Lier votre compte et votre PC
 
