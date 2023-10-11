@@ -1,4 +1,4 @@
-# prefo-git
+# Préfo-git
 
 **Cours de préformation sur les commandes (de base) UNIX et DOS, et sur GIT - GITHUB**
 
@@ -157,7 +157,7 @@ Notre groupe se trouvera à cette URL pour cette session de formation:
 
 https://github.com/WebDevCF2m2023
 
-## Compte github
+## Compte Github
 
 - [Retour à l'arborescence](#arborescence)
 
@@ -199,7 +199,7 @@ Cliquez sur ce lien puis pour créer un clef SSH sur github :
 
 https://github.com/settings/ssh/new
 
-Et rajoutez la clef publique que vous trouverez dans le champs key en collant le résultat de la commande précédente.
+Et rajoutez la clef publique que vous trouverez dans le champ key en collant le résultat de la commande précédente.
 
 Dans cette même console, liez votre ordinateur avec github:
 
@@ -212,9 +212,9 @@ Dans cette même console, liez votre ordinateur avec github:
 
 - [Retour à l'arborescence](#arborescence)
 
-Un aide mémoire sur les commandes git liées à github :
+Un aide-mémoire sur les commandes git liées à github :
 - [Aide mémoire github](https://github.com/WebDevCF2m2022/prefo-git/blob/main/files/github-git-cheat-sheet.pdf)
 
-Deux cours en ligne sont particulièrement intéressants (et il y en a de nombreux!) :
+Deux cours en ligne sont particulièrement intéressants (et il y en a de nombreux !) :
 - https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
 - https://grafikart.fr/tutoriels/init-config-add-log-585#autoplay
